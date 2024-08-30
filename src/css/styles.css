@@ -1,0 +1,45 @@
+* {
+  font-family: "Poppins";
+  margin: 0;
+}
+
+.header-text {
+  background-color: #e5d4ff;
+  text-align: center;
+  padding: 20px;
+}
+
+.jumbotron {
+  background-color: #e5d4ff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+}
+
+h3 {
+  padding: 20px;
+  display: flex;
+  flex: 1;
+  justify-content: center;
+}
+
+hr {
+  position: relative;
+  width: 95%;
+  margin: 0 auto;
+  border: none;
+  height: 1px;
+  color: #392467;
+  background-color: #392467;
+}
+
+.notes-header {
+  background-color: #f1eaff;
+}
+
+footer {
+  text-align: center;
+  background-color: #a367b1;
+  padding: 20px;
+}
